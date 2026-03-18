@@ -1,6 +1,10 @@
 {
   "users": [
     {
+      "username": "rexzy",
+      "key": "efee332a526bedab"
+    },
+    {
       "username": "sal",
       "key": "b704e22af1d2e58c"
     },
@@ -28,10 +32,6 @@
     {
       "username": "naff",
       "key": "8ea67061b227098f"
-    },
-    {
-      "username": "rafi",
-      "key": "dc1e2caac5816465"
     },
     {
       "username": "rexzzy",
